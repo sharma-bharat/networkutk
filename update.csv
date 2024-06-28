@@ -1,0 +1,85 @@
+Node,Degree
+Albany NY  CFS Area,12
+Atlanta GA,44
+Austin TX,6
+Baltimore MD,24
+Baton Rouge LA,51
+Beaumont TX,30
+Birmingham AL,26
+Boston MA-RI-NH-CT (MA Part),18
+Boston MA-RI-NH-CT (RI Part),2
+Buffalo NY  CFS Area,10
+Charleston SC,16
+Charlotte NC-SC (NC Part),22
+Chicago IL-IN-WI (IL Part),56
+Chicago IL-IN-WI (IN Part),29
+Cincinnati OH-KY-IN (KY Part),11
+Cincinnati OH-KY-IN (OH Part),21
+Cleveland OH,32
+Columbus OH,24
+Corpus Christi TX,7
+Dayton OH,10
+Denver CO,20
+Detroit MI,35
+El Paso TX-NM (TX Part),11
+Fort Wayne IN,35
+Fresno CA,11
+Grand Rapids MI,13
+Greenville SC,18
+Hartford CT,3
+Houston TX,63
+Indianapolis IN,24
+Iowa,62
+Jacksonville FL-GA  CFS Area (FL Part),17
+Kansas City MO-KS (KS Part),17
+Kansas City MO-KS (MO Part),16
+Knoxville TN,17
+Laredo TX,10
+Las Vegas NV-AZ (NV Part),4
+Los Angeles CA,55
+Louisville KY-IN (KY Part),15
+Memphis TN-MS-AR (TN Part),22
+Miami FL,17
+Milwaukee WI,18
+Minneapolis-St. Paul MN-WI (MN Part),33
+Mobile AL,14
+Nashville TN,17
+New Mexico,15
+New Orleans LA-MS (LA Part),48
+New York NY-NJ-CT-PA (CT Part),12
+New York NY-NJ-CT-PA (NJ Part),29
+New York NY-NJ-CT-PA (NY Part),18
+New York NY-NJ-CT-PA (PA Part),11
+Oklahoma City OK,6
+Omaha NE-IA (NE Part),23
+Orlando FL,8
+Philadelphia PA-NJ-DE-MD (DE Part),18
+Philadelphia PA-NJ-DE-MD (NJ Part),26
+Philadelphia PA-NJ-DE-MD (PA Part),29
+Phoenix AZ,15
+Pittsburgh PA-OH-WV (PA Part),26
+Portland OR-WA (OR Part),27
+Portland OR-WA (WA Part),12
+Raleigh-Durham NC,14
+Richmond VA,21
+Rochester NY,16
+Sacramento CA,12
+Salt Lake City UT,29
+San Antonio TX,12
+San Diego CA,5
+San Francisco CA,29
+Savannah GA,16
+Seattle WA,17
+St. Louis MO-IL (IL Part),20
+St. Louis MO-IL (MO Part),21
+Tampa FL,23
+Tucson AZ,7
+Tulsa OK,14
+Vermont,6
+Virginia Beach-Norfolk VA-NC (VA Part),10
+Washington DC-VA-MD-WV (MD Part),10
+Washington DC-VA-MD-WV (VA Part),7
+Wichita KS,13
+Wyoming,46
+Washington DC-VA-MD-WV (DC Part),2
+Boston MA-RI-NH-CT (NH Part),5

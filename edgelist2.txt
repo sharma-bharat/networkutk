@@ -1,0 +1,848 @@
+Albany NY  CFS Area Albany NY  CFS Area 0.0
+Albany NY  CFS Area Buffalo NY  CFS Area 296.0968892234143
+Albany NY  CFS Area Chicago IL-IN-WI (IN Part) 809.6972765019027
+Albany NY  CFS Area Los Angeles CA 2903.364832973184
+Albany NY  CFS Area New Orleans LA-MS (LA Part) 1485.1135926066552
+Albany NY  CFS Area New York NY-NJ-CT-PA (NY Part) 142.5532135272241
+Albany NY  CFS Area New York NY-NJ-CT-PA (PA Part) 142.5532135272241
+Albany NY  CFS Area Philadelphia PA-NJ-DE-MD (NJ Part) 226.37033418840184
+Albany NY  CFS Area Rochester NY 237.93611187940385
+Albany NY  CFS Area Vermont 216.0440186770135
+Albany NY  CFS Area Iowa 1126.8936752366542
+Buffalo NY  CFS Area Buffalo NY  CFS Area 0.0
+Buffalo NY  CFS Area Chicago IL-IN-WI (IL Part) 515.4296726012528
+Buffalo NY  CFS Area San Francisco CA 2801.9434838742504
+Buffalo NY  CFS Area Charleston SC 945.452789189578
+Buffalo NY  CFS Area Hartford CT 419.60817177435314
+Buffalo NY  CFS Area New York NY-NJ-CT-PA (CT Part) 433.3172864902811
+Buffalo NY  CFS Area New York NY-NJ-CT-PA (NY Part) 433.3172864902811
+Buffalo NY  CFS Area Salt Lake City UT 1985.8061988635293
+Chicago IL-IN-WI (IN Part) Baton Rouge LA 1259.1587571386497
+Chicago IL-IN-WI (IN Part) Birmingham AL 642.3172826569067
+Chicago IL-IN-WI (IN Part) Chicago IL-IN-WI (IL Part) 0.0
+Chicago IL-IN-WI (IN Part) Atlanta GA 722.6802209953358
+Chicago IL-IN-WI (IN Part) Boston MA-RI-NH-CT (MA Part) 996.690215553974
+Chicago IL-IN-WI (IN Part) Chicago IL-IN-WI (IN Part) 0.0
+Chicago IL-IN-WI (IN Part) Detroit MI 284.82055958202307
+Chicago IL-IN-WI (IN Part) Fort Wayne IN 152.00056034526312
+Chicago IL-IN-WI (IN Part) Houston TX 1053.525184507156
+Chicago IL-IN-WI (IN Part) Indianapolis IN 192.5817760250072
+Chicago IL-IN-WI (IN Part) Iowa 347.433405015946
+Chicago IL-IN-WI (IN Part) Jacksonville FL-GA  CFS Area (FL Part) 1058.9837703107423
+Chicago IL-IN-WI (IN Part) Los Angeles CA 2130.7937055165844
+Chicago IL-IN-WI (IN Part) Minneapolis-St. Paul MN-WI (MN Part) 441.7420946874848
+Chicago IL-IN-WI (IN Part) Omaha NE-IA (NE Part) 493.3905428437228
+Chicago IL-IN-WI (IN Part) Philadelphia PA-NJ-DE-MD (PA Part) 803.4210315504527
+Chicago IL-IN-WI (IN Part) Pittsburgh PA-OH-WV (PA Part) 456.3179226378146
+Chicago IL-IN-WI (IN Part) Portland OR-WA (OR Part) 2218.383042009656
+Chicago IL-IN-WI (IN Part) San Francisco CA 2319.198375049278
+Chicago IL-IN-WI (IN Part) St. Louis MO-IL (IL Part) 281.1200231474792
+Chicago IL-IN-WI (IN Part) Tulsa OK 702.011328987952
+Chicago IL-IN-WI (IN Part) Virginia Beach-Norfolk VA-NC (VA Part) 964.165352912976
+Chicago IL-IN-WI (IN Part) Wyoming 1182.8040747241043
+Chicago IL-IN-WI (IN Part) Cleveland OH 336.8750718953131
+Chicago IL-IN-WI (IN Part) Kansas City MO-KS (KS Part) 451.7707779261661
+Chicago IL-IN-WI (IN Part) Mobile AL 295.0555618283549
+Chicago IL-IN-WI (IN Part) New Orleans LA-MS (LA Part) 903.400414996836
+Los Angeles CA Atlanta GA 2276.9543566821394
+Los Angeles CA Baton Rouge LA 2675.0786350457315
+Los Angeles CA Beaumont TX 1711.1840788504658
+Los Angeles CA Chicago IL-IN-WI (IL Part) 2130.793705516582
+Los Angeles CA Cincinnati OH-KY-IN (OH Part) 2282.777868313478
+Los Angeles CA Columbus OH 2369.642311045968
+Los Angeles CA Detroit MI 2384.08495148588
+Los Angeles CA El Paso TX-NM (TX Part) 814.7042038171204
+Los Angeles CA Fort Wayne IN 2242.1635457082366
+Los Angeles CA Greenville SC 2427.3179223219527
+Los Angeles CA Houston TX 1630.037127578183
+Los Angeles CA Iowa 1895.1082809210336
+Los Angeles CA Kansas City MO-KS (MO Part) 1679.5565757058175
+Los Angeles CA Knoxville TN 2350.521168157604
+Los Angeles CA Las Vegas NV-AZ (NV Part) 321.0235387994087
+Los Angeles CA Charlotte NC-SC (NC Part) 2530.964253690815
+Los Angeles CA Cleveland OH 2430.5426283665925
+Los Angeles CA Denver CO 1247.8506232009215
+Los Angeles CA Fresno CA 276.8542020380606
+Los Angeles CA Grand Rapids MI 2280.9664021421804
+Los Angeles CA Indianapolis IN 2181.2005293268016
+Los Angeles CA Kansas City MO-KS (KS Part) 1679.5565757058173
+Los Angeles CA Los Angeles CA 0.0
+Los Angeles CA Louisville KY-IN (KY Part) 2218.468924254093
+Los Angeles CA Miami FL 2828.81827308217
+Los Angeles CA Minneapolis-St. Paul MN-WI (MN Part) 2102.059227619907
+Los Angeles CA New York NY-NJ-CT-PA (NY Part) 2974.75534792202
+Los Angeles CA Philadelphia PA-NJ-DE-MD (NJ Part) 2897.66687392484
+Los Angeles CA Phoenix AZ 481.5879489029927
+Los Angeles CA Portland OR-WA (OR Part) 1076.305314749359
+Los Angeles CA Richmond VA 2810.439152683882
+Los Angeles CA Salt Lake City UT 767.8121337421965
+Los Angeles CA San Francisco CA 468.08347191975713
+Los Angeles CA Seattle WA 1253.4572711676822
+Los Angeles CA Tulsa OK 1596.851259724943
+Los Angeles CA Washington DC-VA-MD-WV (VA Part) 2843.219435118167
+Los Angeles CA Memphis TN-MS-AR (TN Part) 1928.8245042179997
+Los Angeles CA Milwaukee WI 2177.039854059145
+Los Angeles CA Nashville TN 2164.2320276902437
+Los Angeles CA New Orleans LA-MS (LA Part) 1953.437443256562
+Los Angeles CA New York NY-NJ-CT-PA (NJ Part) 2974.755347922023
+Los Angeles CA New York NY-NJ-CT-PA (PA Part) 2974.755347922023
+Los Angeles CA Omaha NE-IA (NE Part) 1784.255168663965
+Los Angeles CA Philadelphia PA-NJ-DE-MD (DE Part) 2897.66687392484
+Los Angeles CA Philadelphia PA-NJ-DE-MD (PA Part) 2897.66687392484
+Los Angeles CA Pittsburgh PA-OH-WV (PA Part) 2550.5637650122017
+Los Angeles CA Portland OR-WA (WA Part) 1076.305314749359
+Los Angeles CA Rochester NY 2680.5848424510405
+Los Angeles CA St. Louis MO-IL (IL Part) 1949.404853541748
+Los Angeles CA St. Louis MO-IL (MO Part) 1949.404853541748
+Los Angeles CA Tucson AZ 502.0109587520811
+Los Angeles CA Wyoming 1584.5130277901612
+New Orleans LA-MS (LA Part) Baton Rouge LA 810.0647831848502
+New Orleans LA-MS (LA Part) Beaumont TX 273.235173585555
+New Orleans LA-MS (LA Part) Birmingham AL 369.733932986397
+New Orleans LA-MS (LA Part) Chicago IL-IN-WI (IL Part) 903.400414996836
+New Orleans LA-MS (LA Part) Columbus OH 957.205988336453
+New Orleans LA-MS (LA Part) Denver CO 1301.870837272707
+New Orleans LA-MS (LA Part) Houston TX 357.7140533262106
+New Orleans LA-MS (LA Part) Iowa 1036.9909395263426
+New Orleans LA-MS (LA Part) Jacksonville FL-GA  CFS Area (FL Part) 632.3231727538104
+New Orleans LA-MS (LA Part) Memphis TN-MS-AR (TN Part) 396.4420980970715
+New Orleans LA-MS (LA Part) Minneapolis-St. Paul MN-WI (MN Part) 1267.5620059208418
+New Orleans LA-MS (LA Part) New Mexico 1284.3236113670944
+New Orleans LA-MS (LA Part) Atlanta GA 508.3421856169604
+New Orleans LA-MS (LA Part) Baltimore MD 1162.6793088553015
+New Orleans LA-MS (LA Part) Boston MA-RI-NH-CT (MA Part) 1577.2017340526752
+New Orleans LA-MS (LA Part) Charlotte NC-SC (NC Part) 767.1790459253918
+New Orleans LA-MS (LA Part) Cincinnati OH-KY-IN (KY Part) 846.7055553538444
+New Orleans LA-MS (LA Part) Cleveland OH 1091.8993901704364
+New Orleans LA-MS (LA Part) Dayton OH 896.495573050252
+New Orleans LA-MS (LA Part) Detroit MI 1100.389018860743
+New Orleans LA-MS (LA Part) El Paso TX-NM (TX Part) 1143.832670838024
+New Orleans LA-MS (LA Part) Fort Wayne IN 955.7457387948264
+New Orleans LA-MS (LA Part) Grand Rapids MI 1050.9287029280222
+New Orleans LA-MS (LA Part) Greenville SC 663.5327145565315
+New Orleans LA-MS (LA Part) Knoxville TN 622.7249232121859
+New Orleans LA-MS (LA Part) Laredo TX 723.2475937542262
+New Orleans LA-MS (LA Part) Louisville KY-IN (KY Part) 750.8598399870779
+New Orleans LA-MS (LA Part) Milwaukee WI 987.9549613766274
+New Orleans LA-MS (LA Part) Mobile AL 864.6934704639295
+New Orleans LA-MS (LA Part) Nashville TN 569.868142760281
+New Orleans LA-MS (LA Part) New Orleans LA-MS (LA Part) 0.0
+New Orleans LA-MS (LA Part) New York NY-NJ-CT-PA (NJ Part) 1348.105329135342
+New Orleans LA-MS (LA Part) Portland OR-WA (OR Part) 2651.488950742072
+New Orleans LA-MS (LA Part) Richmond VA 1082.6429077384623
+New Orleans LA-MS (LA Part) Salt Lake City UT 1861.9755750738748
+New Orleans LA-MS (LA Part) San Antonio TX 568.1664389634707
+New Orleans LA-MS (LA Part) San Francisco CA 2387.441445831314
+New Orleans LA-MS (LA Part) Savannah GA 703.1336455115165
+New Orleans LA-MS (LA Part) St. Louis MO-IL (MO Part) 694.3403810746171
+New Orleans LA-MS (LA Part) Tampa FL 801.5140879912923
+New Orleans LA-MS (LA Part) Tulsa OK 685.3026270111178
+New Orleans LA-MS (LA Part) Wichita KS 868.9664974205033
+New Orleans LA-MS (LA Part) Omaha NE-IA (NE Part) 1063.92993264239
+New Orleans LA-MS (LA Part) St. Louis MO-IL (IL Part) 694.3403810746169
+New York NY-NJ-CT-PA (NY Part) Baltimore MD 187.526890981495
+New York NY-NJ-CT-PA (NY Part) Chicago IL-IN-WI (IL Part) 880.5095055476371
+New York NY-NJ-CT-PA (NY Part) Cincinnati OH-KY-IN (OH Part) 735.3343998521174
+New York NY-NJ-CT-PA (NY Part) Iowa 1197.705904282388
+New York NY-NJ-CT-PA (NY Part) New York NY-NJ-CT-PA (CT Part) 0.0
+New York NY-NJ-CT-PA (NY Part) New York NY-NJ-CT-PA (NJ Part) 0.0
+New York NY-NJ-CT-PA (NY Part) Atlanta GA 857.0271989132942
+New York NY-NJ-CT-PA (NY Part) Boston MA-RI-NH-CT (MA Part) 231.3032329206591
+New York NY-NJ-CT-PA (NY Part) New York NY-NJ-CT-PA (NY Part) 0.0
+New York NY-NJ-CT-PA (NY Part) Philadelphia PA-NJ-DE-MD (PA Part) 89.36207071708802
+New York NY-NJ-CT-PA (NY Part) Richmond VA 334.03841922353564
+New York NY-NJ-CT-PA (NY Part) Rochester NY 375.1565091462707
+New York NY-NJ-CT-PA (NY Part) Portland OR-WA (OR Part) 3065.220999916108
+New York NY-NJ-CT-PA (NY Part) Washington DC-VA-MD-WV (MD Part) 226.83625100825637
+New York NY-NJ-CT-PA (PA Part) Baton Rouge LA 1177.6587226373715
+New York NY-NJ-CT-PA (PA Part) Columbus OH 618.4433632052701
+New York NY-NJ-CT-PA (PA Part) Iowa 1197.705904282388
+New York NY-NJ-CT-PA (PA Part) Chicago IL-IN-WI (IL Part) 880.5095055476364
+New York NY-NJ-CT-PA (PA Part) New York NY-NJ-CT-PA (PA Part) 0.0
+New York NY-NJ-CT-PA (PA Part) Portland OR-WA (OR Part) 3065.2209999161105
+New York NY-NJ-CT-PA (PA Part) Seattle WA 3025.077489071319
+New York NY-NJ-CT-PA (PA Part) Philadelphia PA-NJ-DE-MD (PA Part) 89.36207071708799
+Philadelphia PA-NJ-DE-MD (NJ Part) Beaumont TX 1505.1707110237694
+Philadelphia PA-NJ-DE-MD (NJ Part) Chicago IL-IN-WI (IL Part) 803.4210315504527
+Philadelphia PA-NJ-DE-MD (NJ Part) Detroit MI 640.9349776594431
+Philadelphia PA-NJ-DE-MD (NJ Part) Greenville SC 614.0208321343547
+Philadelphia PA-NJ-DE-MD (NJ Part) Houston TX 1589.649590764425
+Philadelphia PA-NJ-DE-MD (NJ Part) Iowa 1120.6174302852037
+Philadelphia PA-NJ-DE-MD (NJ Part) Philadelphia PA-NJ-DE-MD (DE Part) 0.0
+Philadelphia PA-NJ-DE-MD (NJ Part) Boston MA-RI-NH-CT (MA Part) 318.45847563442123
+Philadelphia PA-NJ-DE-MD (NJ Part) Charlotte NC-SC (NC Part) 510.6351274345124
+Philadelphia PA-NJ-DE-MD (NJ Part) Cleveland OH 484.1111538665497
+Philadelphia PA-NJ-DE-MD (NJ Part) Kansas City MO-KS (KS Part) 1219.3872017455612
+Philadelphia PA-NJ-DE-MD (NJ Part) Knoxville TN 640.0323391225827
+Philadelphia PA-NJ-DE-MD (NJ Part) Louisville KY-IN (KY Part) 766.9294144773359
+Philadelphia PA-NJ-DE-MD (NJ Part) New York NY-NJ-CT-PA (CT Part) 89.36207071708799
+Philadelphia PA-NJ-DE-MD (NJ Part) New York NY-NJ-CT-PA (NJ Part) 89.36207071708799
+Philadelphia PA-NJ-DE-MD (NJ Part) Philadelphia PA-NJ-DE-MD (NJ Part) 0.0
+Philadelphia PA-NJ-DE-MD (NJ Part) Philadelphia PA-NJ-DE-MD (PA Part) 0.0
+Philadelphia PA-NJ-DE-MD (NJ Part) Pittsburgh PA-OH-WV (PA Part) 347.10310891263805
+Philadelphia PA-NJ-DE-MD (NJ Part) San Francisco CA 3089.934842823451
+Philadelphia PA-NJ-DE-MD (NJ Part) Seattle WA 2947.989015074136
+Philadelphia PA-NJ-DE-MD (NJ Part) Portland OR-WA (WA Part) 2988.132525918925
+Philadelphia PA-NJ-DE-MD (NJ Part) Tulsa OK 1398.443970378551
+Philadelphia PA-NJ-DE-MD (NJ Part) Wyoming 1953.540542498276
+Rochester NY Atlanta GA 959.0875645900333
+Rochester NY Beaumont TX 1498.320539568787
+Rochester NY Chicago IL-IN-WI (IL Part) 586.9172859797599
+Rochester NY Iowa 904.1136847145116
+Rochester NY Minneapolis-St. Paul MN-WI (MN Part) 994.9878330260595
+Rochester NY New Mexico 1813.6594598445613
+Rochester NY New York NY-NJ-CT-PA (NJ Part) 375.1565091462707
+Rochester NY Rochester NY 0.0
+Rochester NY Salt Lake City UT 2057.293812242035
+Rochester NY San Francisco CA 2873.431097252758
+Rochester NY St. Louis MO-IL (MO Part) 768.5079263338009
+Rochester NY Wyoming 1737.0367969275856
+Vermont Iowa 1306.2716623861006
+Vermont Louisville KY-IN (KY Part) 1013.8620716758884
+Vermont Cleveland OH 653.594144572653
+Vermont Vermont 0.0
+Atlanta GA Atlanta GA 0.0
+Atlanta GA Baton Rouge LA 537.6936357739808
+Atlanta GA Charlotte NC-SC (NC Part) 259.3204252054783
+Atlanta GA Chicago IL-IN-WI (IL Part) 722.6802209953358
+Atlanta GA Cleveland OH 707.6513976889693
+Atlanta GA Houston TX 852.4494788337355
+Atlanta GA Indianapolis IN 542.2065430363515
+Atlanta GA Miami FL 680.7953834850488
+Atlanta GA Milwaukee WI 807.7941393192439
+Atlanta GA Minneapolis-St. Paul MN-WI (MN Part) 1132.5260030102766
+Atlanta GA New York NY-NJ-CT-PA (NJ Part) 857.0271989132946
+Atlanta GA San Diego CA 2358.342190951859
+Atlanta GA San Francisco CA 2710.9583592568915
+Atlanta GA Tampa FL 529.1429405804228
+Atlanta GA Beaumont TX 767.9705990930798
+Atlanta GA Birmingham AL 162.6733711864454
+Atlanta GA Columbus OH 572.957995854985
+Atlanta GA Dayton OH 512.247580568785
+Atlanta GA Fort Wayne IN 634.6055920227864
+Atlanta GA Greenville SC 155.674093836618
+Atlanta GA Iowa 911.7308714576916
+Atlanta GA Kansas City MO-KS (KS Part) 873.8888661148869
+Atlanta GA Knoxville TN 195.52894901597872
+Atlanta GA Memphis TN-MS-AR (TN Part) 417.9410611145585
+Atlanta GA Mobile AL 480.4454779824625
+Atlanta GA Nashville TN 289.14511404193456
+Atlanta GA Omaha NE-IA (NE Part) 1065.9390438317846
+Atlanta GA Orlando FL 490.4442010451048
+Atlanta GA Philadelphia PA-NJ-DE-MD (DE Part) 769.6949259709728
+Atlanta GA Portland OR-WA (OR Part) 2755.2862996107983
+Atlanta GA Raleigh-Durham NC 398.5952552530548
+Atlanta GA Richmond VA 579.6478958223661
+Atlanta GA Salt Lake City UT 2006.837549942344
+Atlanta GA Savannah GA 263.84400716370806
+Atlanta GA Seattle WA 2844.0054822481948
+Atlanta GA St. Louis MO-IL (IL Part) 607.0956816633164
+Atlanta GA Virginia Beach-Norfolk VA-NC (VA Part) 591.8795274093984
+Atlanta GA Wyoming 1686.580534627893
+Baton Rouge LA Austin TX 1340.6567153641593
+Baton Rouge LA Baltimore MD 992.2327023573312
+Baton Rouge LA Baton Rouge LA 0.0
+Baton Rouge LA Beaumont TX 1069.6931966609693
+Baton Rouge LA Birmingham AL 657.8453624143091
+Baton Rouge LA Boston MA-RI-NH-CT (MA Part) 1406.7551275547046
+Baton Rouge LA Charleston SC 460.5720079039467
+Baton Rouge LA Charlotte NC-SC (NC Part) 603.6714186543505
+Baton Rouge LA Chicago IL-IN-WI (IL Part) 1259.1587571386497
+Baton Rouge LA Cincinnati OH-KY-IN (KY Part) 998.9360990156906
+Baton Rouge LA Cincinnati OH-KY-IN (OH Part) 998.9360990156906
+Baton Rouge LA Cleveland OH 1244.129933832283
+Baton Rouge LA Columbus OH 1109.436531998299
+Baton Rouge LA Corpus Christi TX 1376.1468703496996
+Baton Rouge LA Denver CO 1995.7575327648267
+Baton Rouge LA Detroit MI 1252.619562522589
+Baton Rouge LA El Paso TX-NM (TX Part) 1865.473862627195
+Baton Rouge LA Greenville SC 614.4915989709306
+Baton Rouge LA Houston TX 1154.1720764016245
+Baton Rouge LA Iowa 1448.2094076010044
+Baton Rouge LA Kansas City MO-KS (KS Part) 1372.4682046981031
+Baton Rouge LA Kansas City MO-KS (MO Part) 1372.4682046981031
+Baton Rouge LA Knoxville TN 732.0074851592926
+Baton Rouge LA Louisville KY-IN (KY Part) 966.2494975201676
+Baton Rouge LA Memphis TN-MS-AR (TN Part) 901.8924310032623
+Baton Rouge LA Milwaukee WI 1344.2726754625576
+Baton Rouge LA Minneapolis-St. Paul MN-WI (MN Part) 1669.0045391535905
+Baton Rouge LA Nashville TN 825.6236501852478
+Baton Rouge LA New York NY-NJ-CT-PA (NJ Part) 1177.658722637372
+Baton Rouge LA Omaha NE-IA (NE Part) 1564.5183824150015
+Baton Rouge LA Orlando FL 100.15601949440902
+Baton Rouge LA Philadelphia PA-NJ-DE-MD (DE Part) 1090.326449695051
+Baton Rouge LA Philadelphia PA-NJ-DE-MD (PA Part) 1090.3264496950508
+Baton Rouge LA Pittsburgh PA-OH-WV (PA Part) 1240.388947574898
+Baton Rouge LA Raleigh-Durham NC 708.7502266669693
+Baton Rouge LA Richmond VA 843.9951367997649
+Baton Rouge LA Salt Lake City UT 2496.025177119697
+Baton Rouge LA San Antonio TX 1364.6244620388843
+Baton Rouge LA San Francisco CA 3109.082637620484
+Baton Rouge LA Savannah GA 358.0004549254952
+Baton Rouge LA St. Louis MO-IL (IL Part) 1143.5742178066296
+Baton Rouge LA St. Louis MO-IL (MO Part) 1143.5742178066296
+Baton Rouge LA Tampa FL 16.647181474811003
+Baton Rouge LA Mobile AL 1016.9240141257764
+Baton Rouge LA Wyoming 2175.768161805247
+Charlotte NC-SC (NC Part) Beaumont TX 1026.8074594015109
+Charlotte NC-SC (NC Part) Charlotte NC-SC (NC Part) 0.0
+Charlotte NC-SC (NC Part) Columbus OH 568.0894947759072
+Charlotte NC-SC (NC Part) Denver CO 1716.2380625318062
+Charlotte NC-SC (NC Part) Houston TX 1111.286339142167
+Charlotte NC-SC (NC Part) Knoxville TN 270.9092840581567
+Charlotte NC-SC (NC Part) Tulsa OK 1098.4328396713304
+Charlotte NC-SC (NC Part) Chicago IL-IN-WI (IL Part) 848.7273875230036
+Charlotte NC-SC (NC Part) Detroit MI 748.6606964422969
+Charlotte NC-SC (NC Part) Iowa 1105.0200653735474
+Charlotte NC-SC (NC Part) Kansas City MO-KS (KS Part) 1083.5570230592214
+Charlotte NC-SC (NC Part) Kansas City MO-KS (MO Part) 1083.5570230592214
+Charlotte NC-SC (NC Part) New Mexico 1861.850421801348
+Charlotte NC-SC (NC Part) Philadelphia PA-NJ-DE-MD (PA Part) 510.6351274345124
+Charlotte NC-SC (NC Part) St. Louis MO-IL (IL Part) 816.7638386076503
+Charlotte NC-SC (NC Part) Wyoming 1896.248691572227
+Chicago IL-IN-WI (IL Part) Baltimore MD 767.2122525124028
+Chicago IL-IN-WI (IL Part) Beaumont TX 1025.6537914996322
+Chicago IL-IN-WI (IL Part) Birmingham AL 642.3172826569067
+Chicago IL-IN-WI (IL Part) Boston MA-RI-NH-CT (RI Part) 996.6902155539732
+Chicago IL-IN-WI (IL Part) Chicago IL-IN-WI (IL Part) 0.0
+Chicago IL-IN-WI (IL Part) Cincinnati OH-KY-IN (KY Part) 303.53609188864067
+Chicago IL-IN-WI (IL Part) Cleveland OH 336.8750718953131
+Chicago IL-IN-WI (IL Part) Columbus OH 317.0435454326482
+Chicago IL-IN-WI (IL Part) Denver CO 1026.8823714500818
+Chicago IL-IN-WI (IL Part) Detroit MI 284.8205595820231
+Chicago IL-IN-WI (IL Part) Fort Wayne IN 152.00056034526312
+Chicago IL-IN-WI (IL Part) Grand Rapids MI 181.04787347772503
+Chicago IL-IN-WI (IL Part) Greenville SC 835.3098171694369
+Chicago IL-IN-WI (IL Part) Houston TX 1053.525184507156
+Chicago IL-IN-WI (IL Part) Indianapolis IN 192.5817760250072
+Chicago IL-IN-WI (IL Part) Iowa 347.433405015946
+Chicago IL-IN-WI (IL Part) Laredo TX 1344.2327208543436
+Chicago IL-IN-WI (IL Part) Memphis TN-MS-AR (TN Part) 506.9583168997648
+Chicago IL-IN-WI (IL Part) Miami FL 1402.260504849717
+Chicago IL-IN-WI (IL Part) Milwaukee WI 115.58167983482652
+Chicago IL-IN-WI (IL Part) Minneapolis-St. Paul MN-WI (MN Part) 441.7420946874845
+Chicago IL-IN-WI (IL Part) New Mexico 1263.8683229101057
+Chicago IL-IN-WI (IL Part) New York NY-NJ-CT-PA (NJ Part) 880.5095055476364
+Chicago IL-IN-WI (IL Part) Omaha NE-IA (NE Part) 493.3905428437227
+Chicago IL-IN-WI (IL Part) Orlando FL 1211.9093224097735
+Chicago IL-IN-WI (IL Part) Philadelphia PA-NJ-DE-MD (PA Part) 803.4210315504527
+Chicago IL-IN-WI (IL Part) Phoenix AZ 1803.8835819578685
+Chicago IL-IN-WI (IL Part) Pittsburgh PA-OH-WV (PA Part) 456.3179226378143
+Chicago IL-IN-WI (IL Part) Portland OR-WA (OR Part) 2218.383042009656
+Chicago IL-IN-WI (IL Part) Salt Lake City UT 1503.061090038556
+Chicago IL-IN-WI (IL Part) San Antonio TX 1191.168162837246
+Chicago IL-IN-WI (IL Part) San Francisco CA 2319.198375049278
+Chicago IL-IN-WI (IL Part) Seattle WA 2178.2395311648665
+Chicago IL-IN-WI (IL Part) St. Louis MO-IL (IL Part) 281.1200231474792
+Chicago IL-IN-WI (IL Part) Wichita KS 651.2607040149383
+Chicago IL-IN-WI (IL Part) Wyoming 1182.8040747241043
+Chicago IL-IN-WI (IL Part) Cincinnati OH-KY-IN (OH Part) 303.5360918886407
+Chicago IL-IN-WI (IL Part) Corpus Christi TX 1276.988937927788
+Chicago IL-IN-WI (IL Part) Fresno CA 2239.311298605928
+Chicago IL-IN-WI (IL Part) Kansas City MO-KS (KS Part) 451.7707779261661
+Chicago IL-IN-WI (IL Part) Mobile AL 295.0555618283549
+Chicago IL-IN-WI (IL Part) Philadelphia PA-NJ-DE-MD (DE Part) 803.4210315504527
+Chicago IL-IN-WI (IL Part) St. Louis MO-IL (MO Part) 281.12002314747946
+Chicago IL-IN-WI (IL Part) Virginia Beach-Norfolk VA-NC (VA Part) 964.165352912976
+Cleveland OH Baltimore MD 452.0315268260413
+Cleveland OH Beaumont TX 1247.8868841019764
+Cleveland OH Cincinnati OH-KY-IN (KY Part) 251.5844384808313
+Cleveland OH Cincinnati OH-KY-IN (OH Part) 251.5844384808313
+Cleveland OH Birmingham AL 722.1654571840398
+Cleveland OH Cleveland OH 0.0
+Cleveland OH Columbus OH 134.693401833984
+Cleveland OH Dayton OH 199.47890619522573
+Cleveland OH Detroit MI 162.87352611733243
+Cleveland OH Greenville SC 689.3653262563245
+Cleveland OH Houston TX 1275.7582771095003
+Cleveland OH Milwaukee WI 417.8414027635234
+Cleveland OH New York NY-NJ-CT-PA (CT Part) 561.1996278637337
+Cleveland OH New York NY-NJ-CT-PA (NJ Part) 561.1996278637337
+Cleveland OH Philadelphia PA-NJ-DE-MD (PA Part) 484.1111538665497
+Cleveland OH El Paso TX-NM (TX Part) 1687.200552662296
+Cleveland OH Minneapolis-St. Paul MN-WI (MN Part) 744.9456189416131
+Cleveland OH Nashville TN 550.9968688550044
+Cleveland OH New Mexico 1563.617245760114
+Cleveland OH Pittsburgh PA-OH-WV (PA Part) 137.00804495391154
+Cleveland OH Savannah GA 895.5037604615227
+Cleveland OH St. Louis MO-IL (IL Part) 518.0742708669903
+Cleveland OH Wyoming 1486.994582843138
+Houston TX Austin TX 195.0428620577256
+Houston TX Beaumont TX 84.47887974065561
+Houston TX Columbus OH 1173.204849855514
+Houston TX Corpus Christi TX 225.3067224164479
+Houston TX Detroit MI 1255.2318989148323
+Houston TX Fort Wayne IN 1105.870508305146
+Houston TX Baltimore MD 1491.555843426706
+Houston TX Birmingham AL 698.6104675578015
+Houston TX Charleston SC 1150.83988272207
+Houston TX Cincinnati OH-KY-IN (OH Part) 1056.3138132086665
+Houston TX Dayton OH 1112.4944345693132
+Houston TX Denver CO 1033.0094590209828
+Houston TX El Paso TX-NM (TX Part) 820.4323551596447
+Houston TX Fresno CA 1838.6350635864248
+Houston TX Greenville SC 1007.6400077733064
+Houston TX Houston TX 0.0
+Houston TX Iowa 953.1797394724788
+Houston TX Jacksonville FL-GA  CFS Area (FL Part) 976.4304659705848
+Houston TX Kansas City MO-KS (KS Part) 738.7333649056965
+Houston TX Kansas City MO-KS (MO Part) 738.7333649056965
+Houston TX Knoxville TN 951.6014577835904
+Houston TX Laredo TX 368.8654688963883
+Houston TX Louisville KY-IN (KY Part) 947.6303245862632
+Houston TX Memphis TN-MS-AR (TN Part) 557.7871582935293
+Houston TX Milwaukee WI 1138.0797308869471
+Houston TX Minneapolis-St. Paul MN-WI (MN Part) 1219.1372133711618
+Houston TX Nashville TN 793.1946817657741
+Houston TX New Mexico 969.5103520432218
+Houston TX New York NY-NJ-CT-PA (CT Part) 1676.9818637067467
+Houston TX New York NY-NJ-CT-PA (NJ Part) 1676.9818637067458
+Houston TX Oklahoma City OK 461.693559469585
+Houston TX Omaha NE-IA (NE Part) 930.55489183789
+Houston TX Philadelphia PA-NJ-DE-MD (DE Part) 1589.6495907644246
+Houston TX Philadelphia PA-NJ-DE-MD (PA Part) 1589.6495907644246
+Houston TX Phoenix AZ 1248.5295215940869
+Houston TX Pittsburgh PA-OH-WV (PA Part) 1380.048746047646
+Houston TX Portland OR-WA (OR Part) 2382.627572490349
+Houston TX Portland OR-WA (WA Part) 2382.627572490349
+Houston TX Sacramento CA 2003.5639169889405
+Houston TX Salt Lake City UT 1593.114196822149
+Houston TX San Antonio TX 213.7843141056328
+Houston TX San Diego CA 1711.424961847902
+Houston TX San Francisco CA 2064.615257816341
+Houston TX Seattle WA 2492.4477507239817
+Houston TX St. Louis MO-IL (IL Part) 788.8510835423053
+Houston TX St. Louis MO-IL (MO Part) 788.8510835423053
+Houston TX Virginia Beach-Norfolk VA-NC (VA Part) 1444.3290062431342
+Houston TX Washington DC-VA-MD-WV (MD Part) 1450.14561269849
+Houston TX Wichita KS 630.8957779638807
+Houston TX Wyoming 1435.2327002511886
+Houston TX Indianapolis IN 994.4579186504404
+Houston TX Mobile AL 1057.7940412295509
+Houston TX Tampa FL 1145.621381208066
+Indianapolis IN Cincinnati OH-KY-IN (KY Part) 110.9577668351148
+Indianapolis IN Cincinnati OH-KY-IN (OH Part) 110.9577668351148
+Indianapolis IN Columbus OH 201.5312068894393
+Indianapolis IN Fresno CA 2289.7181224161477
+Indianapolis IN Fort Wayne IN 119.55467557564508
+Indianapolis IN Indianapolis IN 0.0
+Indianapolis IN Iowa 448.87445387555056
+Indianapolis IN Knoxville TN 387.2902450470579
+Indianapolis IN Laredo TX 1285.165454997628
+Indianapolis IN Milwaukee WI 277.69569434891537
+Indianapolis IN San Antonio TX 1132.1008969805305
+Indianapolis IN Kansas City MO-KS (KS Part) 502.9208571475252
+Indianapolis IN Minneapolis-St. Paul MN-WI (MN Part) 601.5582793066138
+Indianapolis IN New Mexico 1314.2751467203243
+Indianapolis IN Savannah GA 804.8354505693931
+Indianapolis IN St. Louis MO-IL (IL Part) 236.77391240793133
+Indianapolis IN Virginia Beach-Norfolk VA-NC (VA Part) 784.2376351668121
+Indianapolis IN Wyoming 1296.0865109379952
+Miami FL Baltimore MD 1135.334450068399
+Miami FL Detroit MI 1395.7213102336568
+Miami FL Fort Wayne IN 1314.185875877168
+Miami FL Greenville SC 757.5933466819986
+Miami FL Iowa 1591.3111553120732
+Miami FL Jacksonville FL-GA  CFS Area (FL Part) 353.7785820650521
+Miami FL Memphis TN-MS-AR (TN Part) 1055.6320690396983
+Miami FL Miami FL 0.0
+Miami FL New York NY-NJ-CT-PA (NJ Part) 1320.7604703484396
+Miami FL Philadelphia PA-NJ-DE-MD (DE Part) 1233.428197406119
+Miami FL Raleigh-Durham NC 851.8519743780373
+Miami FL St. Louis MO-IL (MO Part) 1286.6759655176982
+Miami FL Tampa FL 257.03529959376897
+Milwaukee WI Beaumont TX 1110.208337879424
+Milwaukee WI Fresno CA 2285.557447148488
+Milwaukee WI Fort Wayne IN 236.20862210349225
+Milwaukee WI Iowa 390.3323930673131
+Milwaukee WI Milwaukee WI 0.0
+Milwaukee WI Sacramento CA 2174.4130762924533
+Milwaukee WI Salt Lake City UT 1527.3462137893466
+Milwaukee WI Pittsburgh PA-OH-WV (PA Part) 537.2842535060244
+Milwaukee WI Wyoming 1207.0891984748948
+Minneapolis-St. Paul MN-WI (MN Part) Birmingham AL 1050.6449883971752
+Minneapolis-St. Paul MN-WI (MN Part) Fort Wayne IN 563.3128382815819
+Minneapolis-St. Paul MN-WI (MN Part) Greenville SC 1244.2863204510436
+Minneapolis-St. Paul MN-WI (MN Part) Iowa 367.0177784400556
+Minneapolis-St. Paul MN-WI (MN Part) Baltimore MD 1175.2827995587024
+Minneapolis-St. Paul MN-WI (MN Part) Boston MA-RI-NH-CT (NH Part) 1404.760762600273
+Minneapolis-St. Paul MN-WI (MN Part) Cincinnati OH-KY-IN (OH Part) 712.5125951702472
+Minneapolis-St. Paul MN-WI (MN Part) Denver CO 858.0683752892363
+Minneapolis-St. Paul MN-WI (MN Part) Jacksonville FL-GA  CFS Area (FL Part) 1468.8295523256834
+Minneapolis-St. Paul MN-WI (MN Part) Kansas City MO-KS (MO Part) 482.04282722929975
+Minneapolis-St. Paul MN-WI (MN Part) Minneapolis-St. Paul MN-WI (MN Part) 0.0
+Minneapolis-St. Paul MN-WI (MN Part) New York NY-NJ-CT-PA (NJ Part) 1288.5800525939362
+Minneapolis-St. Paul MN-WI (MN Part) Omaha NE-IA (NE Part) 374.1561962581606
+Minneapolis-St. Paul MN-WI (MN Part) San Antonio TX 1261.426567475797
+Minneapolis-St. Paul MN-WI (MN Part) San Francisco CA 2150.3843788884324
+Minneapolis-St. Paul MN-WI (MN Part) Seattle WA 1750.9741895724487
+Minneapolis-St. Paul MN-WI (MN Part) Wyoming 1013.9900785632592
+Minneapolis-St. Paul MN-WI (MN Part) Mobile AL 704.0320651099616
+Minneapolis-St. Paul MN-WI (MN Part) New Mexico 1261.4167813821257
+Minneapolis-St. Paul MN-WI (MN Part) Portland OR-WA (WA Part) 1791.1177004172373
+Minneapolis-St. Paul MN-WI (MN Part) Richmond VA 1264.2463080053603
+Minneapolis-St. Paul MN-WI (MN Part) Salt Lake City UT 1334.24709387771
+New York NY-NJ-CT-PA (NJ Part) Cincinnati OH-KY-IN (KY Part) 735.3343998521174
+New York NY-NJ-CT-PA (NJ Part) Cincinnati OH-KY-IN (OH Part) 735.3343998521174
+New York NY-NJ-CT-PA (NJ Part) Columbus OH 618.4433632052695
+New York NY-NJ-CT-PA (NJ Part) Detroit MI 718.0234516566276
+New York NY-NJ-CT-PA (NJ Part) Fort Wayne IN 732.5918022137868
+New York NY-NJ-CT-PA (NJ Part) Iowa 1197.705904282388
+New York NY-NJ-CT-PA (NJ Part) Kansas City MO-KS (MO Part) 1296.475675742745
+New York NY-NJ-CT-PA (NJ Part) New York NY-NJ-CT-PA (NJ Part) 0.0
+New York NY-NJ-CT-PA (NJ Part) Philadelphia PA-NJ-DE-MD (PA Part) 89.36207071708799
+New York NY-NJ-CT-PA (NJ Part) Tampa FL 1169.108027443814
+New York NY-NJ-CT-PA (NJ Part) Omaha NE-IA (NE Part) 1343.6630421101645
+New York NY-NJ-CT-PA (NJ Part) Portland OR-WA (OR Part) 3065.220999916108
+New York NY-NJ-CT-PA (NJ Part) Portland OR-WA (WA Part) 3065.220999916108
+New York NY-NJ-CT-PA (NJ Part) San Francisco CA 3167.023316820636
+New York NY-NJ-CT-PA (NJ Part) St. Louis MO-IL (IL Part) 1054.641138535263
+New York NY-NJ-CT-PA (NJ Part) Wyoming 2030.6290164954607
+San Diego CA Iowa 1979.259845263116
+San Diego CA San Diego CA 0.0
+San Francisco CA Charleston SC 3021.5206509642007
+San Francisco CA Iowa 1983.6063573876213
+San Francisco CA Nashville TN 2547.3463053520263
+San Francisco CA Portland OR-WA (OR Part) 792.389218945925
+San Francisco CA Boston MA-RI-NH-CT (MA Part) 3283.2040268269734
+San Francisco CA Denver CO 1422.9438146775765
+San Francisco CA Phoenix AZ 816.0857362222548
+San Francisco CA Sacramento CA 171.42385484605188
+San Francisco CA Salt Lake City UT 885.7019108740888
+San Francisco CA San Francisco CA 0.0
+San Francisco CA Savannah GA 2917.9217069704214
+San Francisco CA Tampa FL 3100.5319424269264
+San Francisco CA Seattle WA 969.5411753642484
+San Francisco CA St. Louis MO-IL (IL Part) 2220.2111502006505
+San Francisco CA St. Louis MO-IL (MO Part) 2220.2111502006505
+San Francisco CA Wyoming 1632.8381790586895
+Tampa FL Baltimore MD 983.6820071637736
+Tampa FL Birmingham AL 649.2946672207512
+Tampa FL Cincinnati OH-KY-IN (KY Part) 990.3854038221332
+Tampa FL Dayton OH 1040.1754215185413
+Tampa FL Iowa 1439.6587124074472
+Tampa FL Jacksonville FL-GA  CFS Area (FL Part) 217.99189185358443
+Tampa FL Knoxville TN 723.4567899657347
+Tampa FL Memphis TN-MS-AR (TN Part) 893.3417358097047
+Tampa FL Mobile AL 1008.3733189322184
+Tampa FL Pittsburgh PA-OH-WV (PA Part) 1231.8382523813402
+Tampa FL Raleigh-Durham NC 700.1995314734114
+Tampa FL Savannah GA 349.4497597319371
+Tampa FL Charleston SC 452.0213127103887
+Tampa FL Orlando FL 91.60532430085102
+Tampa FL Tampa FL 0.0
+Austin TX Austin TX 0.0
+Austin TX Iowa 924.9101688988712
+Austin TX Wyoming 1379.182152804312
+Baltimore MD Baltimore MD 0.0
+Baltimore MD Boston MA-RI-NH-CT (MA Part) 416.6232958988282
+Baltimore MD Charleston SC 541.7356829402333
+Baltimore MD Nashville TN 809.2791964126958
+Baltimore MD Philadelphia PA-NJ-DE-MD (PA Part) 100.701064152725
+Baltimore MD Raleigh-Durham NC 365.7960453900125
+Baltimore MD Richmond VA 148.61239894349524
+Baltimore MD Washington DC-VA-MD-WV (DC Part) 41.41023072821591
+Baltimore MD Washington DC-VA-MD-WV (MD Part) 41.4102307282159
+Baltimore MD Washington DC-VA-MD-WV (VA Part) 41.41023072821591
+Baltimore MD Beaumont TX 1407.0769636860505
+Baltimore MD Iowa 1084.4086512471547
+Baltimore MD New York NY-NJ-CT-PA (CT Part) 187.526890981495
+Baltimore MD St. Louis MO-IL (MO Part) 934.9617327828844
+Boston MA-RI-NH-CT (MA Part) Beaumont TX 1821.599388883424
+Boston MA-RI-NH-CT (MA Part) Boston MA-RI-NH-CT (MA Part) 0.0
+Boston MA-RI-NH-CT (MA Part) Boston MA-RI-NH-CT (NH Part) 0.0
+Boston MA-RI-NH-CT (MA Part) Columbus OH 795.9024983092619
+Boston MA-RI-NH-CT (MA Part) Fort Wayne IN 848.1942263170175
+Boston MA-RI-NH-CT (MA Part) Iowa 1313.886614288725
+Boston MA-RI-NH-CT (MA Part) Memphis TN-MS-AR (TN Part) 1383.8708049018187
+Boston MA-RI-NH-CT (MA Part) Nashville TN 1212.2059653302824
+Boston MA-RI-NH-CT (MA Part) Pittsburgh PA-OH-WV (PA Part) 653.2879878271551
+Boston MA-RI-NH-CT (MA Part) St. Louis MO-IL (MO Part) 1178.2808559080152
+Charleston SC Charleston SC 0.0
+Charleston SC Cincinnati OH-KY-IN (OH Part) 729.7608122258029
+Charleston SC Greenville SC 251.10011191083103
+Charleston SC Jacksonville FL-GA  CFS Area (FL Part) 260.3970210760399
+Charleston SC Orlando FL 413.3225731750707
+Charleston SC Pittsburgh PA-OH-WV (PA Part) 797.1102743155255
+Charleston SC Raleigh-Durham NC 277.88570735770054
+Charleston SC Richmond VA 393.4981173826667
+Charleston SC Savannah GA 109.55055557093203
+Nashville TN Fort Wayne IN 422.3328336520374
+Nashville TN Louisville KY-IN (KY Part) 190.7289417517701
+Nashville TN Nashville TN 0.0
+Nashville TN Phoenix AZ 1782.7244217061475
+Nashville TN Sacramento CA 2378.27588284441
+Nashville TN Seattle WA 2568.376952647156
+Nashville TN Wyoming 1410.952005026852
+Philadelphia PA-NJ-DE-MD (PA Part) Birmingham AL 891.0391232066238
+Philadelphia PA-NJ-DE-MD (PA Part) Detroit MI 640.9349776594431
+Philadelphia PA-NJ-DE-MD (PA Part) Fort Wayne IN 655.5033282166023
+Philadelphia PA-NJ-DE-MD (PA Part) Iowa 1120.6174302852037
+Philadelphia PA-NJ-DE-MD (PA Part) Philadelphia PA-NJ-DE-MD (DE Part) 0.0
+Philadelphia PA-NJ-DE-MD (PA Part) Columbus OH 541.3548892080856
+Philadelphia PA-NJ-DE-MD (PA Part) Greenville SC 614.0208321343548
+Philadelphia PA-NJ-DE-MD (PA Part) Philadelphia PA-NJ-DE-MD (PA Part) 0.0
+Philadelphia PA-NJ-DE-MD (PA Part) Phoenix AZ 2570.7567503661217
+Philadelphia PA-NJ-DE-MD (PA Part) Pittsburgh PA-OH-WV (PA Part) 347.10310891263794
+Philadelphia PA-NJ-DE-MD (PA Part) Portland OR-WA (WA Part) 2988.132525918925
+Philadelphia PA-NJ-DE-MD (PA Part) Richmond VA 246.70614628121436
+Philadelphia PA-NJ-DE-MD (PA Part) Salt Lake City UT 2273.7975578127293
+Philadelphia PA-NJ-DE-MD (PA Part) St. Louis MO-IL (IL Part) 977.5526645380788
+Philadelphia PA-NJ-DE-MD (PA Part) St. Louis MO-IL (MO Part) 977.5526645380788
+Philadelphia PA-NJ-DE-MD (PA Part) Wyoming 1953.540542498276
+Raleigh-Durham NC Birmingham AL 555.9580982426968
+Raleigh-Durham NC Fort Wayne IN 743.4455116016101
+Raleigh-Durham NC Kansas City MO-KS (KS Part) 1174.6957040781872
+Raleigh-Durham NC Portland OR-WA (OR Part) 3056.0931375740947
+Raleigh-Durham NC Raleigh-Durham NC 0.0
+Raleigh-Durham NC Richmond VA 226.07094719026605
+Raleigh-Durham NC Washington DC-VA-MD-WV (MD Part) 324.3858146617967
+Richmond VA Detroit MI 696.35612544921
+Richmond VA Fort Wayne IN 708.2580576252107
+Richmond VA Iowa 1128.3200205061355
+Richmond VA Philadelphia PA-NJ-DE-MD (DE Part) 246.70614628121436
+Richmond VA Birmingham AL 712.9089747520657
+Richmond VA Greenville SC 423.97380198574814
+Richmond VA New York NY-NJ-CT-PA (CT Part) 334.03841922353564
+Richmond VA Richmond VA 0.0
+Richmond VA Savannah GA 492.9736844667504
+Richmond VA St. Louis MO-IL (MO Part) 906.8425021615571
+Washington DC-VA-MD-WV (DC Part) Washington DC-VA-MD-WV (VA Part) 0.0
+Washington DC-VA-MD-WV (MD Part) Boston MA-RI-NH-CT (RI Part) 455.9326559255896
+Washington DC-VA-MD-WV (MD Part) New York NY-NJ-CT-PA (CT Part) 226.83625100825637
+Washington DC-VA-MD-WV (MD Part) Pittsburgh PA-OH-WV (PA Part) 296.784822103508
+Washington DC-VA-MD-WV (MD Part) Virginia Beach-Norfolk VA-NC (VA Part) 215.1917601691947
+Washington DC-VA-MD-WV (MD Part) Washington DC-VA-MD-WV (MD Part) 0.0
+Washington DC-VA-MD-WV (VA Part) Iowa 1066.1699914785331
+Washington DC-VA-MD-WV (VA Part) Grand Rapids MI 700.9820487376555
+Washington DC-VA-MD-WV (VA Part) Washington DC-VA-MD-WV (VA Part) 0.0
+Beaumont TX Beaumont TX 0.0
+Beaumont TX Cincinnati OH-KY-IN (OH Part) 1028.4424202011428
+Beaumont TX Iowa 968.8131294155668
+Beaumont TX Jacksonville FL-GA  CFS Area (FL Part) 891.9515862299291
+Beaumont TX Louisville KY-IN (KY Part) 919.75893157874
+Beaumont TX Memphis TN-MS-AR (TN Part) 529.9157652860058
+Beaumont TX Mobile AL 1029.9226482220272
+Beaumont TX New Mexico 1045.753045727105
+Beaumont TX Philadelphia PA-NJ-DE-MD (DE Part) 1505.1707110237694
+Beaumont TX Pittsburgh PA-OH-WV (PA Part) 1352.1773530401224
+Beaumont TX Salt Lake City UT 1664.845663001534
+Beaumont TX San Antonio TX 294.9312653779155
+Beaumont TX St. Louis MO-IL (IL Part) 760.979690534782
+Beaumont TX Wichita KS 702.627244143265
+Beaumont TX Birmingham AL 614.1315878171458
+Beaumont TX Wyoming 1506.9641664305732
+Birmingham AL Birmingham AL 0.0
+Birmingham AL Boston MA-RI-NH-CT (NH Part) 1207.467801066278
+Birmingham AL Greenville SC 313.03693682625993
+Birmingham AL Iowa 823.2621503441785
+Birmingham AL Knoxville TN 252.99099022578895
+Birmingham AL Omaha NE-IA (NE Part) 917.893641339852
+Birmingham AL Savannah GA 421.7804573768926
+Birmingham AL Fort Wayne IN 617.5984249146475
+Birmingham AL Jacksonville FL-GA  CFS Area (FL Part) 459.7047968078678
+Birmingham AL Kansas City MO-KS (MO Part) 725.843463622954
+Birmingham AL Memphis TN-MS-AR (TN Part) 255.26768992811316
+Birmingham AL Wyoming 1529.1434207300974
+Cincinnati OH-KY-IN (KY Part) Cincinnati OH-KY-IN (KY Part) 0.0
+Cincinnati OH-KY-IN (KY Part) Denver CO 1237.1792356067854
+Cincinnati OH-KY-IN (KY Part) Louisville KY-IN (KY Part) 108.68348862240302
+Cincinnati OH-KY-IN (OH Part) Cincinnati OH-KY-IN (OH Part) 0.0
+Cincinnati OH-KY-IN (OH Part) Columbus OH 116.8910366468474
+Cincinnati OH-KY-IN (OH Part) Dayton OH 56.1806213606471
+Cincinnati OH-KY-IN (OH Part) Detroit MI 260.0740671711387
+Cincinnati OH-KY-IN (OH Part) Fort Wayne IN 178.5386328146487
+Cincinnati OH-KY-IN (OH Part) Oklahoma City OK 876.4538225877144
+Cincinnati OH-KY-IN (OH Part) Grand Rapids MI 337.9543586968188
+Cincinnati OH-KY-IN (OH Part) Tulsa OK 759.2425572350786
+Cincinnati OH-KY-IN (OH Part) Wyoming 1407.0408268016288
+Columbus OH Boston MA-RI-NH-CT (NH Part) 795.9024983092619
+Columbus OH Columbus OH 0.0
+Columbus OH Fresno CA 2478.159904135314
+Columbus OH New York NY-NJ-CT-PA (CT Part) 618.4433632052701
+Columbus OH Virginia Beach-Norfolk VA-NC (VA Part) 652.0646932330163
+Columbus OH Detroit MI 181.6157305275252
+Columbus OH Kansas City MO-KS (KS Part) 691.3626388666894
+Columbus OH Memphis TN-MS-AR (TN Part) 623.0173290652749
+Columbus OH Wyoming 1464.271711618752
+Corpus Christi TX Corpus Christi TX 0.0
+Corpus Christi TX Portland OR-WA (OR Part) 2534.607119261445
+Corpus Christi TX Wichita KS 782.8753247349783
+Denver CO Denver CO 0.0
+Denver CO Iowa 681.4844474905768
+Denver CO Salt Lake City UT 560.1047378011671
+Denver CO Wyoming 410.165482385072
+Denver CO Detroit MI 1279.1253618013368
+Denver CO Fort Wayne IN 1147.4960594569184
+Denver CO Omaha NE-IA (NE Part) 537.460776219809
+Denver CO Phoenix AZ 1047.545671014933
+Denver CO Seattle WA 1465.07545756894
+Denver CO St. Louis MO-IL (MO Part) 903.8062208350564
+Detroit MI Detroit MI 0.0
+Detroit MI El Paso TX-NM (TX Part) 1640.7428757815824
+Detroit MI Fort Wayne IN 149.361390609687
+Detroit MI Fresno CA 2492.6025445752234
+Detroit MI Grand Rapids MI 153.1517404416408
+Detroit MI Greenville SC 735.2431260887302
+Detroit MI Iowa 600.7246509852408
+Detroit MI Kansas City MO-KS (MO Part) 705.0620238954606
+Detroit MI Louisville KY-IN (KY Part) 368.7575557935419
+Detroit MI Pittsburgh PA-OH-WV (PA Part) 293.8318687468052
+Detroit MI Tulsa OK 906.6971230976532
+Detroit MI Memphis TN-MS-AR (TN Part) 708.665031307442
+Detroit MI Philadelphia PA-NJ-DE-MD (DE Part) 640.9349776594433
+Detroit MI Portland OR-WA (OR Part) 2469.6390484960057
+Detroit MI Salt Lake City UT 1755.3040803898105
+Detroit MI San Antonio TX 1392.8748772449223
+Detroit MI Savannah GA 941.3815602939284
+Detroit MI Wyoming 1435.047065075359
+El Paso TX-NM (TX Part) El Paso TX-NM (TX Part) 0.0
+El Paso TX-NM (TX Part) Fort Wayne IN 1498.8214700039398
+El Paso TX-NM (TX Part) New Mexico 319.6269836562315
+El Paso TX-NM (TX Part) Omaha NE-IA (NE Part) 1124.0389890085996
+Greenville SC Greenville SC 0.0
+Greenville SC Portland OR-WA (OR Part) 2906.0400935883576
+Iowa Fort Wayne IN 467.6744970625402
+Iowa Fresno CA 1980.420980471456
+Iowa Boston MA-RI-NH-CT (NH Part) 1313.886614288725
+Iowa Dayton OH 564.4108176028107
+Iowa Grand Rapids MI 497.606101641542
+Iowa Iowa 0.0
+Iowa Kansas City MO-KS (KS Part) 216.085353330616
+Iowa Kansas City MO-KS (MO Part) 216.085353330616
+Iowa Laredo TX 1148.5336515942104
+Iowa Louisville KY-IN (KY Part) 561.6522943891434
+Iowa New Mexico 1028.1828983145554
+Iowa Oklahoma City OK 563.763435173685
+Iowa Omaha NE-IA (NE Part) 161.49674555722203
+Iowa Philadelphia PA-NJ-DE-MD (DE Part) 1120.6174302852037
+Iowa Phoenix AZ 1568.1981573623182
+Iowa Pittsburgh PA-OH-WV (PA Part) 773.5143213725659
+Iowa Portland OR-WA (OR Part) 1915.9178220453516
+Iowa Portland OR-WA (WA Part) 1915.9178220453516
+Iowa Salt Lake City UT 1167.4690723768967
+Iowa San Antonio TX 995.4690935771124
+Iowa Savannah GA 1174.3597789907326
+Iowa Seattle WA 1980.339854859012
+Iowa St. Louis MO-IL (IL Part) 343.60787841665183
+Iowa St. Louis MO-IL (MO Part) 343.6078784166517
+Iowa Tucson AZ 1447.6948045943332
+Iowa Virginia Beach-Norfolk VA-NC (VA Part) 1233.1086380708814
+Iowa Wichita KS 415.5752794193883
+Iowa Wyoming 847.2120570624456
+Iowa Mobile AL 551.3482396788983
+Kansas City MO-KS (KS Part) Fort Wayne IN 563.8838735289586
+Kansas City MO-KS (KS Part) Kansas City MO-KS (KS Part) 0.0
+Kansas City MO-KS (KS Part) Kansas City MO-KS (MO Part) 0.0
+Kansas City MO-KS (KS Part) Wyoming 812.6987298787983
+Kansas City MO-KS (MO Part) Jacksonville FL-GA  CFS Area (FL Part) 1180.7600692973697
+Kansas City MO-KS (MO Part) Kansas City MO-KS (MO Part) 0.0
+Kansas City MO-KS (MO Part) Phoenix AZ 1352.6464521471028
+Kansas City MO-KS (MO Part) Pittsburgh PA-OH-WV (PA Part) 872.2840928329229
+Kansas City MO-KS (MO Part) Wyoming 812.6987298787983
+Knoxville TN Jacksonville FL-GA  CFS Area (FL Part) 531.8324983313856
+Knoxville TN Knoxville TN 0.0
+Knoxville TN Salt Lake City UT 1947.58062897027
+Knoxville TN Savannah GA 458.15785654901975
+Knoxville TN Philadelphia PA-NJ-DE-MD (DE Part) 640.0323391225827
+Knoxville TN Wyoming 1627.3236136558187
+Louisville KY-IN (KY Part) Louisville KY-IN (KY Part) 0.0
+Louisville KY-IN (KY Part) Salt Lake City UT 1673.1379359022742
+Louisville KY-IN (KY Part) Wyoming 1352.8809205878229
+Memphis TN-MS-AR (TN Part) Dayton OH 562.3069137790748
+Memphis TN-MS-AR (TN Part) Laredo TX 875.9857644955293
+Memphis TN-MS-AR (TN Part) Memphis TN-MS-AR (TN Part) 0.0
+Memphis TN-MS-AR (TN Part) Pittsburgh PA-OH-WV (PA Part) 829.8612252574075
+Memphis TN-MS-AR (TN Part) Mobile AL 511.8574966184318
+Memphis TN-MS-AR (TN Part) New Mexico 1226.894473922249
+Memphis TN-MS-AR (TN Part) Tulsa OK 431.3437646816765
+Memphis TN-MS-AR (TN Part) Wichita KS 579.5411393747474
+Omaha NE-IA (NE Part) Fort Wayne IN 614.9544258599857
+Omaha NE-IA (NE Part) Grand Rapids MI 643.5632394693184
+Omaha NE-IA (NE Part) Oklahoma City OK 540.0332568906621
+Omaha NE-IA (NE Part) Omaha NE-IA (NE Part) 0.0
+Omaha NE-IA (NE Part) Phoenix AZ 1540.4709411541803
+Omaha NE-IA (NE Part) Salt Lake City UT 1016.4430349217686
+Omaha NE-IA (NE Part) Seattle WA 1836.3161835882436
+Omaha NE-IA (NE Part) St. Louis MO-IL (IL Part) 463.1753590793685
+Omaha NE-IA (NE Part) Wyoming 696.1860196073175
+Orlando FL Jacksonville FL-GA  CFS Area (FL Part) 163.42739962510822
+Orlando FL Mobile AL 969.6745793969
+Orlando FL Philadelphia PA-NJ-DE-MD (DE Part) 1043.0770149661748
+Philadelphia PA-NJ-DE-MD (DE Part) Fort Wayne IN 655.5033282166023
+Philadelphia PA-NJ-DE-MD (DE Part) Jacksonville FL-GA  CFS Area (FL Part) 890.1514628671438
+Philadelphia PA-NJ-DE-MD (DE Part) Philadelphia PA-NJ-DE-MD (DE Part) 0.0
+Pittsburgh PA-OH-WV (PA Part) Fort Wayne IN 308.4002193039642
+Pittsburgh PA-OH-WV (PA Part) Grand Rapids MI 405.6599602505305
+Pittsburgh PA-OH-WV (PA Part) Laredo TX 1678.841098215138
+Pittsburgh PA-OH-WV (PA Part) Pittsburgh PA-OH-WV (PA Part) 0.0
+Pittsburgh PA-OH-WV (PA Part) Tucson AZ 2103.1502886855
+Pittsburgh PA-OH-WV (PA Part) Portland OR-WA (OR Part) 2641.029417006285
+Pittsburgh PA-OH-WV (PA Part) Salt Lake City UT 1926.694448900091
+Salt Lake City UT Fort Wayne IN 1623.6747780453925
+Salt Lake City UT Portland OR-WA (OR Part) 883.1936105583278
+Salt Lake City UT Laredo TX 1760.6871320706116
+Salt Lake City UT Sacramento CA 716.6314883664724
+Salt Lake City UT Salt Lake City UT 0.0
+Salt Lake City UT St. Louis MO-IL (MO Part) 1404.0738651899264
+Salt Lake City UT Wichita KS 1121.2389153663498
+Salt Lake City UT Wyoming 816.7008940479649
+San Antonio TX San Antonio TX 0.0
+San Antonio TX Wyoming 1449.7410774825532
+Savannah GA Savannah GA 0.0
+Savannah GA St. Louis MO-IL (MO Part) 869.7245891963577
+St. Louis MO-IL (IL Part) Fort Wayne IN 336.4444266474934
+St. Louis MO-IL (IL Part) New Mexico 1082.4794709352698
+St. Louis MO-IL (IL Part) St. Louis MO-IL (IL Part) 0.0
+St. Louis MO-IL (MO Part) Fort Wayne IN 336.4444266474933
+St. Louis MO-IL (MO Part) Phoenix AZ 1622.4947299830326
+St. Louis MO-IL (MO Part) St. Louis MO-IL (MO Part) 0.0
+St. Louis MO-IL (MO Part) Wyoming 1083.816849875475
+Jacksonville FL-GA  CFS Area (FL Part) Jacksonville FL-GA  CFS Area (FL Part) 0.0
+Jacksonville FL-GA  CFS Area (FL Part) Portland OR-WA (OR Part) 3052.765791387415
+Jacksonville FL-GA  CFS Area (FL Part) Sacramento CA 2856.32316139235
+Mobile AL Mobile AL 0.0
+New Mexico New Mexico 0.0
+Wichita KS Portland OR-WA (OR Part) 1873.860129970469
+Wichita KS Tulsa OK 183.66387040938568
+Wichita KS Wichita KS 0.0
+Wichita KS Wyoming 805.1543649875634
+Tulsa OK Portland OR-WA (OR Part) 2056.706557679599
+Tulsa OK Sacramento CA 1870.2977062168047
+Tulsa OK Tulsa OK 0.0
+Tulsa OK Wyoming 988.0007926966942
+Fort Wayne IN Fort Wayne IN 0.0
+Fort Wayne IN New York NY-NJ-CT-PA (CT Part) 732.5918022137868
+Fort Wayne IN Sacramento CA 2270.7416405484983
+Fort Wayne IN Wyoming 1303.41776273094
+Fort Wayne IN Grand Rapids MI 175.68388197976202
+Grand Rapids MI Grand Rapids MI 0.0
+Grand Rapids MI Wyoming 1330.5207802736104
+Laredo TX Laredo TX 0.0
+Phoenix AZ Phoenix AZ 0.0
+Phoenix AZ Tucson AZ 120.503352767985
+Phoenix AZ Portland OR-WA (OR Part) 1389.5566547036367
+Portland OR-WA (OR Part) Fresno CA 803.2728238807045
+Portland OR-WA (OR Part) Portland OR-WA (OR Part) 0.0
+Portland OR-WA (OR Part) Portland OR-WA (WA Part) 0.0
+Portland OR-WA (OR Part) Seattle WA 178.37876807270965
+Portland OR-WA (OR Part) Wyoming 1205.3072380706526
+Seattle WA Las Vegas NV-AZ (NV Part) 1406.1442010183762
+Seattle WA Seattle WA 0.0
+Seattle WA Wyoming 1165.163727225863
+Wyoming Fresno CA 1629.6528021425256
+Wyoming Las Vegas NV-AZ (NV Part) 1263.4894889907528
+Wyoming Portland OR-WA (WA Part) 1205.3072380706526
+Wyoming Sacramento CA 1463.767756551072
+Wyoming Tucson AZ 1331.5706347660778
+Wyoming Wyoming 0.0
+Virginia Beach-Norfolk VA-NC (VA Part) Virginia Beach-Norfolk VA-NC (VA Part) 0.0
+Dayton OH Dayton OH 0.0
+Oklahoma City OK Oklahoma City OK 0.0
+New York NY-NJ-CT-PA (CT Part) New York NY-NJ-CT-PA (CT Part) 0.0
+Fresno CA Las Vegas NV-AZ (NV Part) 429.5411318887544
+Sacramento CA Portland OR-WA (WA Part) 635.6361385754252
+Sacramento CA Sacramento CA 0.0
+Hartford CT Hartford CT 0.0
+Portland OR-WA (WA Part) Portland OR-WA (WA Part) 0.0
+Tucson AZ Tucson AZ 0.0

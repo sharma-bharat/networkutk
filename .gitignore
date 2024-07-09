@@ -1,2 +1,3 @@
-
+.ipynb_checkpoints/*
 .ipynb_checkpoints/cnproj_dec3_finalizing-checkpoint.ipynb
+.DS_Store

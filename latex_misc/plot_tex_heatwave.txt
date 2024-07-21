@@ -1,0 +1,19 @@
+% for Maedeh
+% trim={<left> <lower> <right> <upper>}
+\begin{figure}
+ \subfloat[Global, GSWP3]{
+    \includegraphics[trim = {.1cm .1cm .0cm 1.5cm}, clip, width=0.41\columnwidth]{
+        plots/Change_HotDays_2021.pdf}\label{
+            f:Change_HotDays_2021}}
+ \subfloat[Regional, GSWP3]{
+    \includegraphics[trim = {.1cm .1cm .0cm .8cm}, clip, width=0.58\columnwidth]{
+        plots/Change_HotDays_2051.pdf}\label{f
+        f:Change_HotDays_2051}} 
+ \\
+ \caption{\textbf{Change in Hot days over time}.}
+ The left panel (a) : 
+ The right panel (b): 
+ The attribution of negative carbon cycle extremes from CMIP6 models was performed with their own climate drivers (e, f).
+ }
+ \label{f:Heatwave_Conus}
+\end{figure}

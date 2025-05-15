@@ -1,4 +1,9 @@
-New changes:
+## For manuscript/project: ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions''
+Network Data
+- `railonly.csv': Rail Freight
+- `wateronly.csv': Water Freight
+  
+Latest's Files for analysis and plots:
 - `LOCA2`: Summary of climate analysis from 8 downscalled CMIP6 ESMs.
 - `plots`: Plots of robustness and spatial change in hot days
 - `CleanPlots.ipynb`: Latest robustness plot (in revised manuscript)
